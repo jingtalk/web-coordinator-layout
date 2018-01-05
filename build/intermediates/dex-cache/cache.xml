@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\BaiduYunDownload\IMSDK_new\web-coordinator-layout\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="90a538b0a8222fbe39cbe0f111a4bf4ebc24017c">
+        <dex dex="F:\BaiduYunDownload\IMSDK_new\web-coordinator-layout\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_6dfe51a0eac7f72ab3c1536e835842b9b60fb97a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\BaiduYunDownload\IMSDK_new\web-coordinator-layout\app\libs\mttsdk01132.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6e13d1bde7af8ab1a2b183d5cce12f9e4bc8f4bd">
+        <dex dex="F:\BaiduYunDownload\IMSDK_new\web-coordinator-layout\app\build\intermediates\transforms\dex\debug\folders\1000\2\mttsdk01132_c608be26c0d978f545a27c61673864df0520d0d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\BaiduYunDownload\IMSDK_new\web-coordinator-layout\app\libs\tbs_sdk_thirdapp_v2.4.0.1073_36840_sharewithdownload_withoutGame_obfs_20161011_194834.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fc8e86c61401a7ef1c3a8bf039983c07ebb0e95a">
+        <dex dex="F:\BaiduYunDownload\IMSDK_new\web-coordinator-layout\app\build\intermediates\transforms\dex\debug\folders\1000\2\tbs_sdk_thirdapp_v2.4.0.1073_36840_sharewithdownload_withoutGame_obfs_20161011_194834_4ce73c8cf356de20042ba169214e31159f96661c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\BaiduYunDownload\IMSDK_new\web-coordinator-layout\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="F:\BaiduYunDownload\IMSDK_new\web-coordinator-layout\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_a2a3e164d56a3198c1eef55a84a863688d580170\classes.dex" />
+    </item>
+
+</items>
